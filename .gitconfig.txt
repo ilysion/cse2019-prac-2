@@ -1,0 +1,5 @@
+[user]
+	email = hannes.saariste@gmail.com
+	name = ilysion
+[core]
+	editor = code
