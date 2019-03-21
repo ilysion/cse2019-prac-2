@@ -2,3 +2,4 @@
 	email = hannes.saariste@gmail.com
 [core]
 	editor = code
++ .vs/ Contains the Visual studio cache
